@@ -61,7 +61,7 @@
         //│ CAPS     │  7       │  8       │  9       │  0       │   │          │          │          │          │          │
            &caps_word  &kp LBRC     &kp RBRC     &kp N9     &kp N0         &trans     &kp NUMBER_7     &kp NUMBER_8     &kp NUMBER_9     &kp MINUS
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                             &trans     &tran        &trans     &trans
+                                             &trans     &trans        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
